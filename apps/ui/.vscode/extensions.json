@@ -1,0 +1,24 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "2gua.rainbow-brackets",
+    "chakrounanas.turbo-console-log",
+    "rehfres.colored-console-log",
+    "johnpapa.vscode-peacock",
+    "kamikillerto.vscode-colorize",
+    "vscode-icons-team.vscode-icons",
+    "esbenp.prettier-vscode",
+    "aaron-bond.better-comments",
+    "ms-vscode.vscode-typescript-next",
+    "wix.vscode-import-cost",
+    "ecmel.vscode-html-css",
+    "michelemelluso.code-beautifier",
+    "jock.svg",
+    "msjsdiag.vscode-react-native",
+    "orta.vscode-jest",
+    "naumovs.color-highlight",
+    "benjaminbenais.copilot-theme",
+    "github.copilot-labs"
+  ]
+}

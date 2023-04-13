@@ -1,0 +1,49 @@
+{
+  "javascript.validate.enable": true,
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "flow.enabled": false,
+  // "editor.cursorStyle": "underline",
+  "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.rulers": [120],
+  "editor.codeLens": true,
+  "editor.cursorSurroundingLines": 4,
+  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "editor.fontWeight": 400,
+  "editor.wordWrap": "on",
+  "editor.formatOnPaste": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/coverage": true
+  },
+  "files.insertFinalNewline": true,
+  "files.simpleDialog.enable": true,
+  "files.trimTrailingWhitespace": true,
+  "prettier.ignorePath": ".prettierignore",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "workbench.editor.closeOnFileDelete": true,
+  "window.autoDetectColorScheme": true,
+  "problems.showCurrentInStatus": true,
+  "git.ignoreLimitWarning": true,
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true,
+      "source.fixAll.eslint": true
+
+    }
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true,
+      "source.fixAll.eslint": true
+    }
+  },
+}

@@ -1,0 +1,3 @@
+[submodule "packages/yoroi-mobile"]
+	path = packages/yoroi-mobile
+	url = https://github.com/Emurgo/yoroi-mobile

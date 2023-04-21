@@ -14,4 +14,9 @@ module.exports = {
       },
     }),
   },
+  resolver: {
+    extraModules: {
+      buffer: require.resolve('safe-buffer'),
+    },
+  },
 };
